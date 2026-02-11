@@ -1,4 +1,4 @@
-# Hi, I'm Danilo. 🎧💻
+# Hi, I'm Danilo Siqueira. 🎧💻
 
 I'm a **Technical Audio Artist** and **Audio Integration Engineer** based in Vancouver, BC. 
 
