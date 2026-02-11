@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Danilo. 🎧💻
 
-<!--
-**KYNNAC/KYNNAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Technical Audio Artist** and **Audio Software Detective** based in Vancouver, BC. 
 
-Here are some ideas to get you started:
+I live at the intersection of creative sound design and low-level systems engineering. I don't just want to know how a sound *feels*; I want to know exactly how the engine handles the pointer that triggers it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I’m doing right now
+* **Battlefield (EA/Frostbite):** Currently auditing technical parity between manual test flows and C# autotest frameworks.
+* **Sonus Flow:** Developing a specialized audio tool (C++/DSP) focused on accessibility and streamlined creative workflows.
+* **Literacy:** Constantly refining my C++ and C# "detective" skills within complex game engine architectures.
+
+### 🛠 The Toolkit
+* **Languages:** C++, C#, Python, SQL.
+* **Engines/Middleware:** Frostbite, Wwise, FMOD, Reaper (API/Scripting).
+* **The "Unique Beast" Factor:** I bridge the gap between "I have a creative vision" and "Here is the architectural fix to make it possible."
+
+### 📜 The Tenets
+I am guided by a few simple principles: if it involves audio, requires code, and keeps me on my toes, I'm interested.
+
+---
+[LinkedIn](https://www.linkedin.com/in/danilobsiqueira/) | [MobyGames](https://www.mobygames.com/person/1861111/danilo-siqueira/)
