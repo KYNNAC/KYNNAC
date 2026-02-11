@@ -5,7 +5,7 @@ I'm a **Technical Audio Artist** and **Audio Integration Engineer** based in Van
 I live at the intersection of creative sound design and low-level systems engineering. I don't just want to know how a sound *feels*; I want to know exactly how the engine handles the pointer that triggers it.
 
 ### 🔍 What I’m doing right now
-* **Battlefield (EA/Frostbite):** Currently auditing technical parity between manual test flows and C# autotest frameworks.
+* **EA/Frostbite:** Test automation and mobile development.
 * **Sonus Flow:** Developing a specialized audio tool (C++/DSP) focused on accessibility and streamlined creative workflows.
 * **Literacy:** Constantly refining my C++ and C# skills within complex game engine architectures.
 
