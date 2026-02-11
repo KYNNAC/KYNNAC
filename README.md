@@ -12,7 +12,6 @@ I live at the intersection of creative sound design and low-level systems engine
 ### 🛠 The Toolkit
 * **Languages:** C++, C#, Python, SQL.
 * **Engines/Middleware:** Frostbite, Wwise, FMOD, Reaper (API/Scripting).
-* **The "Unique Beast" Factor:** I bridge the gap between "I have a creative vision" and "Here is the architectural fix to make it possible."
 
 ### 📜 The Tenets
 I am guided by a few simple principles: if it involves audio, requires code, and keeps me on my toes, I'm interested.
