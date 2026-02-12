@@ -1,6 +1,6 @@
 # Hi, I'm Danilo Siqueira. 🎧💻
 
-I am an **Audio Integration Engineer** based in Vancouver, BC. 
+I am an **Technical Sound Designer** and **Audio Integration Engineer** based in Vancouver, BC. 
 
 My background is a fusion of creative sound design and technical systems implementation. I specialize in bridging the gap between high-level design intent and engine-side execution.
 
