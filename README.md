@@ -15,6 +15,7 @@ My background is a fusion of creative sound design and technical systems impleme
 * **Approach:** Ensuring structural integrity and technical parity across complex audio systems.
 
 ### 📜 The Tenets
-Guided by the Five Tenets: If it involves audio, requires code, and demands a rigorous technical eye, I'm in.
+I am guided by a few simple principles: If it involves audio, requires code, and demands a rigorous and technical eye, I'm in.
+
 ---
 [LinkedIn](https://www.linkedin.com/in/danilobsiqueira/) | [MobyGames](https://www.mobygames.com/person/1861111/danilo-siqueira/)
