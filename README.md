@@ -1,20 +1,20 @@
 # Hi, I'm Danilo Siqueira. 🎧💻
 
-I'm a **Technical Audio Artist** and **Audio Integration Engineer** based in Vancouver, BC. 
+I am an **Audio Integration Engineer** based in Vancouver, BC. 
 
-I live at the intersection of creative sound design and low-level systems engineering. I don't just want to know how a sound *feels*; I want to know exactly how the engine handles the pointer that triggers it.
+My background is a fusion of creative sound design and technical systems implementation. I specialize in bridging the gap between high-level design intent and engine-side execution.
 
-### 🔍 What I’m doing right now
-* **EA/Frostbite:** Audio test automation and mobile benchmark/feature testing.
-* **Sonus Flow:** Developing a specialized audio tool (C++/DSP) focused on accessibility and streamlined creative workflows.
-* **Literacy:** Constantly refining my C++ and C# skills within complex game engine architectures.
+### 🔍 Current Focus
+* **Audio Engine Architecture:** Currently working within the Frostbite engine ecosystem to optimize and validate technical audio pipelines for AAA titles.
+* **Sonus Flow:** Developing specialized C++/DSP tooling focused on modernizing audio workflows and accessibility.
+* **Technical Literacy:** Continuous exploration of C++ and C# within large-scale, distributed game engine environments.
 
 ### 🛠 The Toolkit
 * **Languages:** C++, C#, Python, SQL.
-* **Engines/Middleware:** Frostbite, Wwise, FMOD, Reaper (API/Scripting).
+* **Frameworks/Middleware:** Game Engine Architecture, Wwise, FMOD, Reaper API.
+* **Approach:** Ensuring structural integrity and technical parity across complex audio systems.
 
 ### 📜 The Tenets
-I am guided by a few simple principles: if it involves audio, requires code, and keeps me on my toes, I'm interested.
-
+Guided by the Five Tenets: If it involves audio, requires code, and demands a rigorous technical eye, I'm in.
 ---
 [LinkedIn](https://www.linkedin.com/in/danilobsiqueira/) | [MobyGames](https://www.mobygames.com/person/1861111/danilo-siqueira/)
