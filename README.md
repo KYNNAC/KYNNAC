@@ -1,21 +1,28 @@
 # Hi, I'm Danilo Siqueira
 
-I am a **Technical Sound Designer** focused on **Audio Systems Engineering** based in Vancouver, BC. 
+**Systems Automation & Test Engineer** based in Vancouver, BC.
 
-My background is a fusion of creative sound design and technical systems implementation. I specialize in bridging the gap between high-level design intent and engine-side execution.
+I specialize in architecting high-reliability test frameworks and real-time data pipelines. My work focuses on bridging the gap between hardware-in-the-loop (HIL) instrumentation and production-grade software execution.
 
-### Current Focus
-* **Audio Engine Architecture:** Currently working within the Frostbite engine ecosystem to optimize and validate technical audio pipelines for AAA titles.
-* **Sonus Flow:** Developing specialized C++/DSP tooling focused on modernizing audio workflows and accessibility.
-* **Technical Literacy:** Continuous exploration of C++ and C# within large-scale, distributed game engine environments.
+---
+
+### Core Engineering Focus
+* **Test Orchestration:** Building automated HIL verification frameworks to ensure system stability and 99.9% uptime.
+* **Real-Time Data:** Optimizing high-concurrency SQL pipelines and signal processing architectures.
+* **Infrastructure:** Linux environment architecture, CI/CD orchestration, and production-grade Python/C++ development.
+
+### Featured Projects
+* **[AAVF (Automated Hardware/Software Verification Framework)]:** Automated signal acquisition and objective analysis framework designed to replace manual regression and validate system performance metrics.
+* **[SonusFlow]:** C++/Qt-based DSP application focused on real-time signal analysis and processing logic.
 
 ### The Toolkit
-* **Languages:** C++, C#, Python, SQL.
-* **Frameworks/Middleware:** Game Engine Architecture, Wwise, FMOD, Reaper API.
-* **Approach:** Ensuring structural integrity and technical parity across complex audio systems.
+* **Languages:** C++ (11/17), Python, SQL, C#.
+* **Systems:** Linux (services/logs/permissions), Docker, Test Automation (pytest).
+* **Domain:** HIL Integration, I/O Logic, Root-Cause Analysis, CI/CD.
 
-### The Tenets
-I am guided by a few simple principles: If it involves audio, requires code, and demands a rigorous and technical eye, I'm in.
+---
+
+*Guided by systematic rigor, technical parity, and the pursuit of infrastructure stability.*
 
 ---
 [LinkedIn](https://www.linkedin.com/in/danilobsiqueira/) | [MobyGames](https://www.mobygames.com/person/1861111/danilo-siqueira/)
