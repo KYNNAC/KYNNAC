@@ -20,6 +20,10 @@ I specialize in architecting high-reliability test frameworks and real-time data
 * **Systems:** Linux (services/logs/permissions), Docker, Test Automation (pytest).
 * **Domain:** HIL Integration, I/O Logic, Root-Cause Analysis, CI/CD.
 
+### Speaking & Community
+* **[The Sound Kitchen: Engineering Audio Pipelines @ V(g)ACT 2026](https://youtu.be/ouXE0uPgdKo?si=q1MtjpWdQd2elytp)**
+  * A deep dive into real-time performance, HIL testing, and the architecture of reliable audio engines.
+
 ---
 
 *Guided by systematic rigor, technical parity, and the pursuit of infrastructure stability.*
