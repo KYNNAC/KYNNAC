@@ -1,32 +1,49 @@
-# Hi, I'm Danilo Siqueira
+Here is the raw Markdown code. I’ve structured this to be high-impact for technical recruiters and engineering managers. It uses a clean hierarchy and focuses on your "Architect" persona.
 
-**Systems Automation & Test Engineer** based in Vancouver, BC.
+Copy and paste the following into your README.md file:
 
-I specialize in architecting high-reliability test frameworks and real-time data pipelines. My work focuses on bridging the gap between hardware-in-the-loop (HIL) instrumentation and production-grade software execution.
+Markdown
+# Danilo Siqueira | Senior Technical Audio & Systems Engineer
 
----
+**Bridging Creative Audio Direction & Engine-Level Implementation** 📍 Based in Vancouver, BC | Currently at **Electronic Arts (Frostbite)**
 
-### Core Engineering Focus
-* **Test Orchestration:** Building automated HIL verification frameworks to ensure system stability and 99.9% uptime.
-* **Real-Time Data:** Optimizing high-concurrency SQL pipelines and signal processing architectures.
-* **Infrastructure:** Linux environment architecture, CI/CD orchestration, and production-grade Python/C++ development.
-
-### Featured Projects
-* **[AAVF (Automated Hardware/Software Verification Framework)]:** Automated signal acquisition and objective analysis framework designed to replace manual regression and validate system performance metrics.
-* **[SonusFlow]:** C++/Qt-based DSP application focused on real-time signal analysis and processing logic.
-
-### The Toolkit
-* **Languages:** C++ (11/17), Python, SQL, C#.
-* **Systems:** Linux (services/logs/permissions), Docker, Test Automation (pytest).
-* **Domain:** HIL Integration, I/O Logic, Root-Cause Analysis, CI/CD.
-
-### Speaking & Community
-* **[The Sound Kitchen: Engineering Audio Pipelines @ V(g)ACT 2026](https://youtu.be/ouXE0uPgdKo?si=q1MtjpWdQd2elytp)**
-  * A deep dive into real-time performance, HIL testing, and the architecture of reliable audio engines.
+I specialize in architecting high-performance audio tools, automated HIL (Hardware-in-the-Loop) test frameworks, and real-time data pipelines for AAA titles. My work focuses on ensuring system stability, cross-platform optimization, and infrastructure scalability.
 
 ---
 
-*Guided by systematic rigor, technical parity, and the pursuit of infrastructure stability.*
+### 🛠 Core Engineering Focus
+
+* **Audio Engine Automation:** Building automated verification frameworks for engine-level systems to mitigate race conditions and memory leaks.
+* **High-Concurrency Data:** Optimizing SQL-driven speech/dialogue pipelines and real-time signal processing architectures (60,000+ asset scale).
+* **Systems Architecture:** Linux environment orchestration, benchmarking for M-series/Mobile architectures, and SR&ED-compliant technical documentation.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/danilobsiqueira/) | [MobyGames](https://www.mobygames.com/person/1861111/danilo-siqueira/)
+
+### 🚀 Featured Projects
+
+#### **[SonusFlow](https://github.com/KYNNAC/SonusFlow)** *Rust | Slint | cpal* A real-time DSP application designed for Auditory Processing Disorder (APD) therapy. Focused on low-latency signal analysis and processing logic.  
+*Featured at **EA Tech Dev Days '25**.*
+
+#### **[AAVF (Automated Verification Framework)](https://github.com/KYNNAC/AAVF)** *Python | Signal Processing* An automated signal acquisition and objective analysis framework built to replace manual regression. Validates hardware/software performance metrics against strict production requirements.
+
+---
+
+### 🧰 The Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++ (11/17/20), Rust, Python, C#, SQL, Lua |
+| **Audio Tech** | REAPER (ReaScript), Wwise, FMOD, Frostbite, DSP Logic |
+| **Systems** | Linux (Arch/KDE), Docker, CI/CD (GitHub Actions), Perforce |
+| **Expertise** | HIL Integration, Root-Cause Analysis (8D), SR&ED Documentation |
+
+---
+
+### 📢 Speaking & Community
+
+**"The Sound Kitchen: Engineering Audio Pipelines"** *V(g)ACT 2026* A deep dive into real-time performance optimization, HIL testing, and the architecture of reliable, scalable audio engines.
+
+---
+
+### 🔗 Connect
+[LinkedIn](https://linkedin.com/in/danilobsiqueira) | [MobyGames (Credits)](https://www.mobygames.
