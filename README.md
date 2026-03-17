@@ -1,8 +1,3 @@
-Here is the raw Markdown code. I’ve structured this to be high-impact for technical recruiters and engineering managers. It uses a clean hierarchy and focuses on your "Architect" persona.
-
-Copy and paste the following into your README.md file:
-
-Markdown
 # Danilo Siqueira | Senior Technical Audio & Systems Engineer
 
 **Bridging Creative Audio Direction & Engine-Level Implementation** 📍 Based in Vancouver, BC | Currently at **Electronic Arts (Frostbite)**
