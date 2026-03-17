@@ -41,4 +41,4 @@ I specialize in architecting high-performance audio tools, automated HIL (Hardwa
 ---
 
 ### 🔗 Connect
-[LinkedIn](https://linkedin.com/in/danilobsiqueira) | [MobyGames (Credits)](https://www.mobygames.
+[LinkedIn](https://linkedin.com/in/danilobsiqueira) | [MobyGames (Credits)](https://www.mobygames.com/person/1861111/danilo-siqueira/)
