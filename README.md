@@ -16,12 +16,13 @@ I specialize in architecting high-performance audio tools, automated HIL (Hardwa
 
 ### 🚀 Featured Projects
 
-#### **[SonusFlow](https://github.com/KYNNAC/SonusFlow)** *Rust | Slint | cpal* A real-time DSP application designed for Auditory Processing Disorder (APD) therapy. Focused on low-latency signal analysis and processing logic.  
-*Featured at **EA Tech Dev Days '25**.*
+#### **[SonusFlow](https://github.com/KYNNAC/SonusFlow)** | *Rust, Slint, cpal*
+A real-time DSP application designed for Auditory Processing Disorder (APD) therapy, focusing on low-latency signal analysis.
+* Featured at **EA Tech Dev Days '25**.
 
-#### **AAVF (Automated Verification Framework)** | *Internal / Proprietary*
-**Tech Stack:** Python, SciPy, Signal Processing, HIL Integration
-* An automation tool designed to replace manual regression testing for hardware-software integration.
+#### **AAVF (Internal Framework)** | *Python, SciPy, HIL Integration*
+An automated signal acquisition and objective analysis framework built to replace manual hardware-software regression.
+* Validates hardware performance metrics against strict production-grade requirements.
 
 ---
 
@@ -38,7 +39,8 @@ I specialize in architecting high-performance audio tools, automated HIL (Hardwa
 
 ### 📢 Speaking & Community
 
-**"The Sound Kitchen: Engineering Audio Pipelines"** *V(g)ACT 2026* A deep dive into real-time performance optimization, HIL testing, and the architecture of reliable, scalable audio engines.
+#### **The Sound Kitchen: Engineering Audio Pipelines** | *V(g)ACT 2026*
+A deep dive into real-time performance optimization, HIL testing, and the architecture of reliable, scalable audio engines.
 
 ---
 
