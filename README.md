@@ -19,7 +19,7 @@ I specialize in architecting high-performance audio tools, automated HIL (Hardwa
 #### **[SonusFlow](https://github.com/KYNNAC/SonusFlow)** *Rust | Slint | cpal* A real-time DSP application designed for Auditory Processing Disorder (APD) therapy. Focused on low-latency signal analysis and processing logic.  
 *Featured at **EA Tech Dev Days '25**.*
 
-#### **[AAVF (Automated Verification Framework)]** *Python | Signal Processing* An automated signal acquisition and objective analysis framework built to replace manual regression. Validates hardware/software performance metrics against strict production requirements.
+#### **AAVF (Automated Verification Framework)** *Python | Signal Processing* An automated signal acquisition and objective analysis framework built to replace manual regression. Validates hardware/software performance metrics against strict production requirements.
 
 ---
 
