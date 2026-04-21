@@ -39,7 +39,7 @@ An automated signal acquisition and objective analysis framework built to replac
 
 ### 📢 Speaking & Community
 
-#### **The Sound Kitchen: Engineering Audio Pipelines** | *V(g)ACT 2026*
+#### **[The Sound Kitchen: Engineering Audio Pipelines](https://youtu.be/ruH-h-GjWL8?si=OX3tTF9t5SPOSEUF)** | *V(g)ACT 2026*
 A deep dive into real-time performance optimization, HIL testing, and the architecture of reliable, scalable audio engines.
 
 ---
