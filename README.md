@@ -1,6 +1,6 @@
 # Danilo Siqueira | Senior Technical Audio & Systems Engineer
 
-**Bridging Creative Audio Direction & Engine-Level Implementation** 📍 Based in Vancouver, BC | Currently at **Electronic Arts (Frostbite)**
+**Bridging Creative Audio Direction & Engine-Level Implementation** 📍 Based in Vancouver, BC (Relocating to Toronto, ON Q2 2026) | Currently at **Electronic Arts (Frostbite)**
 
 I specialize in architecting high-performance audio tools, automated HIL (Hardware-in-the-Loop) test frameworks, and real-time data pipelines for AAA titles. My work focuses on ensuring system stability, cross-platform optimization, and infrastructure scalability.
 
