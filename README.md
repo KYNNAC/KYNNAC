@@ -1,8 +1,9 @@
 # Danilo Siqueira | Senior Systems & Test Software Engineer
 ### Architecting High-Performance Automation, Embedded Verification, and Scalable Infrastructure.
 
-📍 **Based in Vancouver, BC (Relocating to Toronto, ON Q2 2026)**  
-🚀 **Currently at Electronic Arts (Frostbite Engine)**
+📍 **Based in Vancouver, BC | Open to Toronto opportunities**  
+🚀 **Currently at Electronic Arts (Frostbite Engine)**  
+🔗 [LinkedIn](https://linkedin.com/in/danilobsiqueira) | [MobyGames Credits](https://www.mobygames.com/developer/sheet/view/developerId,YOUR_ID/) | [Email](mailto:siqueiradan.db@gmail.com)
 
 I specialize in building **deterministic verification systems** and **high-concurrency data pipelines** that eliminate operational bottlenecks. My work focuses on translating low-level hardware/software constraints into durable, automated infrastructure—bridging the gap between core engine logic and production-ready deployments.
 
@@ -19,18 +20,19 @@ I specialize in building **deterministic verification systems** and **high-concu
 
 ### 🚀 Featured Projects
 
-#### **[SonusFlow](https://github.com/KYNNAC/SonusFlow)** | *Rust, Slint, cpal*
+#### **[SonusFlow](https://github.com/KYNNAC/sonusflow)** | *Rust, Slint, cpal*
 * A high-performance, real-time DSP engine focused on memory safety and low-latency signal processing.
 * Implements thread-safe state management and "ping-pong" buffer patterns to eliminate I/O bottlenecks.
 * **Selected for EA Technical Art & Systems Summit '25.**
 
 #### **AAVF (Autonomous Automation & Validation Framework)** | *Python, SciPy, HIL Integration*
-* An end-to-end systems validation framework built to automate hardware-software performance metrics.
-* Utilizes data-driven analysis to validate real-time system responses against production requirements, reducing manual overhead by 30%.
+* *[Internal EA Project – details available under NDA]*
+* End-to-end systems validation framework built to automate hardware-software performance metrics.
+* Reduced manual verification overhead by ~30% through data-driven analysis of real-time system responses.
 
 #### **Infrastructure Resource Calculator** | *Python, LLM Orchestration*
-* Developed an internal agentic tool that automates complex CPU/Memory budgeting for cross-platform hardware deployments.
-* Transforms static system telemetry into actionable resource allocation insights using LLM-driven analysis.
+* *[Internal EA Project – details available under NDA]*
+* Agentic tool for cross-platform CPU/Memory budgeting; transformed static telemetry into actionable allocation insights.
 
 ---
 
@@ -46,6 +48,6 @@ I specialize in building **deterministic verification systems** and **high-concu
 ---
 
 ### 📢 Technical Leadership
-
-* **Invited Speaker, EA Global Tech & Audio Summit (Guildford, 2026):** *"Engine-Level Stability and Linux Integration in AAA Pipelines."*
-* **Guest Lecturer | V(g)ACT 2026:** *"Architecting Reliable High-Concurrency Engines: Real-Time Performance and HIL Validation."*
+[![EA Summit Speaker](https://img.shields.io/badge/EA_Summit-2025_Speaker-blue?style=flat-square)](https://www.ea.com/frostbite)
+* **EA Global Tech & Audio Summit (Guildford, 2026):** *"Engine-Level Stability and Linux Integration in AAA Pipelines."*
+* **V(g)ACT 2026:** *"Architecting Reliable High-Concurrency Engines: Real-Time Performance and HIL Validation."*
