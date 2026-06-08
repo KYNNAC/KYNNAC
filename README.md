@@ -1,4 +1,4 @@
-# Danilo Siqueira | Senior Systems & Test Software Engineer
+# Danilo Siqueira | Software Engineer | Tools & Automation Infrastructure | Python, C++, SQL | Electronic Arts
 ### Architecting High-Performance Automation, Embedded Verification, and Scalable Infrastructure.
 
 📍 **Based in Vancouver, BC | Open to Toronto opportunities**  
