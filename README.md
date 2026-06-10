@@ -1,53 +1,42 @@
-# Danilo Siqueira | Software Engineer | Tools & Automation Infrastructure | Python, C++, SQL | Electronic Arts
-### Architecting High-Performance Automation, Embedded Verification, and Scalable Infrastructure.
+# Danilo Siqueira
 
-📍 **Based in Vancouver, BC | Open to Toronto opportunities**  
-🚀 **Currently at Electronic Arts (Frostbite Engine)**  
-🔗 [LinkedIn](https://linkedin.com/in/danilobsiqueira) | [MobyGames Credits](https://www.mobygames.com/developer/sheet/view/developerId,YOUR_ID/) | [Email](mailto:siqueiradan.db@gmail.com)
-
-I specialize in building **deterministic verification systems** and **high-concurrency data pipelines** that eliminate operational bottlenecks. My work focuses on translating low-level hardware/software constraints into durable, automated infrastructure—bridging the gap between core engine logic and production-ready deployments.
+### Tools & Systems Infrastructure Engineer
+📍 Toronto, ON  
+🚀 Currently at Electronic Arts (Frostbite Engine)  
+🔗 [LinkedIn](https://linkedin.com/in/danilobsiqueira) | [MobyGames Credits](https://www.mobygames.com/developer/sheet/view/developerId,12345/)
 
 ---
 
-### 🛠 Core Engineering Focus
+I build internal tools, automate CI/CD pipelines, and make sure infrastructure stays stable. I spend most of my time writing Python, Bash, and SQL. 
 
-* **Systems Infrastructure:** Designing low-latency performance architectures and Linux environment orchestration with a focus on resource optimization (CPU/Memory budgeting).
-* **Automated Verification:** Building data-driven validation frameworks (HIL/SIL) to replace manual verification cycles with objective, high-velocity analysis.
-* **High-Concurrency Systems:** Optimizing SQL-driven pipelines and real-time benchmarking frameworks for high-stakes environments (60,000+ asset scale).
-* **Embedded & Mobile Performance:** Specialized in ARM/M-Series performance profiling and cross-platform engine-level stability.
+I am a 15+ year Linux power-user (Arch/KDE) who prefers writing simple, functional scripts that solve actual developer friction over chasing engineering hype.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 What I'm Building & Working On
 
-#### **[SonusFlow](https://github.com/KYNNAC/sonusflow)** | *Rust, Slint, cpal*
-* A high-performance, real-time DSP engine focused on memory safety and low-latency signal processing.
-* Implements thread-safe state management and "ping-pong" buffer patterns to eliminate I/O bottlenecks.
-* **Selected for EA Technical Art & Systems Summit '25.**
+#### 🦀 [SonusFlow](https://github.com/KYNNAC/sonusflow)
+* A multi-threaded audio systems engine built in Rust using Slint.
+* Focused on low-latency memory safety and thread-safe state handling. 
+* Implements a custom "ping-pong" buffer pattern to keep high-priority audio threads completely isolated from I/O constraints.
+* *Featured internally at the EA Technical Art & Systems Summit.*
 
-#### **AAVF (Autonomous Automation & Validation Framework)** | *Python, SciPy, HIL Integration*
-* *[Internal EA Project – details available under NDA]*
-* End-to-end systems validation framework built to automate hardware-software performance metrics.
-* Reduced manual verification overhead by ~30% through data-driven analysis of real-time system responses.
-
-#### **Infrastructure Resource Calculator** | *Python, LLM Orchestration*
-* *[Internal EA Project – details available under NDA]*
-* Agentic tool for cross-platform CPU/Memory budgeting; transformed static telemetry into actionable allocation insights.
+#### 🛠️ Automation & Infrastructure at EA (Under NDA)
+* **Pipeline Automation Framework:** Architected custom verification tools and automated workflow scripts to handle environment setups for the Frostbite engine layer, cutting manual overhead by 30%.
+* **Cross-Platform Profiler:** Engineered an automated stress-testing utility to track down performance drops, execution bugs, and memory constraints on ARM64/x64 systems before global integration.
+* **Data Pipelines:** Built high-concurrency Python utilities to process and validate over 60,000 distributed game assets while maintaining PostgreSQL query optimization.
 
 ---
 
 ### 🧰 The Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | **Python (Expert), C++ (11/17/20), Rust, SQL, C#, Shell (Bash/Zsh)** |
-| **Automation & QA** | **Pytest, HIL/SIL Testing, CI/CD (GitHub Actions), Selenium, Playwright** |
-| **Systems & Infra** | **Linux (15+ years Arch Power-user), Docker, Perforce, ARM/x86 Profiling** |
-| **Methodology** | **Root-Cause Analysis (8D), Systems Architecture, Technical Documentation** |
+* **Languages:** Python, SQL (PostgreSQL), Bash, C++, Rust, C#
+* **Infra & Tooling:** GitHub Actions, GitLab CI, Jenkins, Docker, Perforce, VMWare
+* **Core Focus:** Linux Systems Administration, Pipeline Automation, Database Optimization, Telemetry & Log Observability
 
 ---
 
-### 📢 Technical Leadership
-[![EA Summit Speaker](https://img.shields.io/badge/EA_Summit-2025_Speaker-blue?style=flat-square)](https://www.ea.com/frostbite)
+### 📢 Talks & Summits
+
 * **EA Global Tech & Audio Summit (Guildford, 2026):** *"Engine-Level Stability and Linux Integration in AAA Pipelines."*
 * **V(g)ACT 2026:** *"Architecting Reliable High-Concurrency Engines: Real-Time Performance and HIL Validation."*
